@@ -1,0 +1,26 @@
+{
+    "TextsByLang": {
+        "ESP": {
+            "Empty": "",
+            "Menu_Button_Play": "Jugar",
+            "Menu_Button_Options": "Opciones",
+            "Menu_Button_Exit": "Salir",
+            "Ulises_Conversation_00.00.00": "[ESP] Hola, soy Ulises. ¿Como te llamas tu?"
+
+        },
+        "CAT": {
+            "Empty": "",
+            "Menu_Button_Play": "Jugar",
+            "Menu_Button_Options": "Opcions",
+            "Menu_Button_Exit": "Sortir",
+            "Ulises_Conversation_00.00.00": "[CAT] Hola, soy Ulises. ¿Como te llamas tu?"
+        },
+        "EN": {
+            "Empty": "",
+            "Menu_Button_Play": "Play",
+            "Menu_Button_Options": "Options",
+            "Menu_Button_Exit": "Exit",
+            "Ulises_Conversation_00.00.00": "[EN] Hola, soy Ulises. ¿Como te llamas tu?"
+        }
+    }
+}
